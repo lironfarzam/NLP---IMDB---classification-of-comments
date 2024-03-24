@@ -1,7 +1,3 @@
-For a more detailed README file, I'll expand upon the initial template to include a comprehensive introduction, detailed instructions for installation, usage, and a deeper dive into each section of the project based on the notebook content you've provided. This version aims to give users a thorough understanding of your project's purpose, structure, and how they can interact with it.
-
----
-
 # Natural Language Processing 2024 – Exercise 2
 
 ## Introduction
